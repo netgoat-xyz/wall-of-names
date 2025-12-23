@@ -6,6 +6,7 @@ The wall of names!
 douxxtech
 duckeydev
 funicat1
+furstxd
 ingStudiosOfficial
 Kazooki123
 SubhrajitSain
