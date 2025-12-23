@@ -5,6 +5,7 @@ The wall of names!
 <!-- PEOPLE_LIST_START -->
 douxxtech  
 duckeydev  
+FlameF0X  
 funicat1  
 furstxd  
 hackz00  
