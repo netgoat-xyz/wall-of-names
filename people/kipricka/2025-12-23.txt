@@ -1,0 +1,6 @@
+Hi. Check our [BotWave](https://github.com/dpipstudio/botwave) if you have a pi, it is a great project ;')
+<div align=center>
+
+<img src="https://togp.xyz/?repo=botwave&owner=dpipstudio&svg=https://raw.githubusercontent.com/dpipstudio/botwave/refs/heads/main/assets/readme_assets/togp_logo.svg" alt="BotWave"/>
+
+</div>
