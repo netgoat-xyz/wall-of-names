@@ -1,5 +1,8 @@
 name: Track Issue Comments
 
+permissions:
+  contents: write
+
 on:
   issue_comment:
     types: [created]
