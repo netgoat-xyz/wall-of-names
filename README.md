@@ -14,5 +14,6 @@ Kazooki123
 kipricka  
 ploszukiwacz  
 SubhrajitSain  
+vedantkumar18  
 Whomper-Comper
 <!-- PEOPLE_LIST_END -->
