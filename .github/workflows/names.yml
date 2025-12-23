@@ -22,7 +22,7 @@ jobs:
       - name: Run comment tracker
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/run.js
+        run: node run.js
 
       - name: Commit changes
         run: |
