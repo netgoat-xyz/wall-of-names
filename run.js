@@ -45,7 +45,7 @@ const startMarker = '<!-- PEOPLE_LIST_START -->';
 const endMarker = '<!-- PEOPLE_LIST_END -->';
 const regex = new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, 'm');
 
-const newList = `${startMarker}\n${peopleList.join('\n')}\n${endMarker}`;
+const newList = `${startMarker}\n${peopleList.join('  \n')}\n${endMarker}`;
 if (readme.match(regex)) {
   readme = readme.replace(regex, newList);
 } else {
